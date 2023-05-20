@@ -1,6 +1,13 @@
-# java-ui-dashboard-011
-Date : 03/04/2022<br/>
-How to coding in java
-visit my youtube : https://www.youtube.com/c/HelloWorld-Raven/featured
-<br/><br/>
-![2022-03-04_221551](https://user-images.githubusercontent.com/58245926/156791269-6c5874c8-14cd-4d92-ad0d-4138bb08fe35.png)
+Source Code Aplikasi Logbook 
+
+Unindra Kelas X6F 2023
+
+<img width="1334" alt="image" src="https://github.com/RivandaP/Logbook_X6F_Unindra/assets/113743391/83ed350d-5680-4129-9131-0daf6b13557c">
+
+1. FENDY ARDYANTO	(202043500020)
+2. RIVANDA PUTRA PRATAMA SURAHMAN	(202043500136)
+3. MUHAMMAD FADHILAH FAQIH R	(202043500290)
+4. MUHAMMAD ALFA RIZI	(202043500311)
+5. ROBY ANSYAH	(202043500183)
+6. GABRIELLA PRIYANTI	(202043500033)
+7. DIMAS AKBAR	(202043501319)
